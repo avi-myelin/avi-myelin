@@ -7,21 +7,6 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 </a>
 
 
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>   
-
-<a href="https://github.com/CoderAvi">
-<img height="114em"src="https://github-readme-stats.vercel.app/api?username=CoderAvi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-
-<img height="114em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CoderAvi&layout=compact&langs_count=6&theme=algolia"/>
-<img height="114em" src="https://github-readme-streak-stats.herokuapp.com/?user=CoderAvi&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0"/>
-</a>
 
 <a href="https://twitter.com/Coder_Avi">
   <img align="left" alt="Coder_Avi's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -65,6 +50,23 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/coder_avi/) 
 [![GitHub CoderAvi](https://img.shields.io/github/followers/CoderAvi?label=follow&style=social)](https://github.com/CoderAvi)
 [![website](https://img.shields.io/badge/Portfolio-coderavi.tech-2648ff?style=flat-square&logo=google-chrome)](https://coderavi.github.io/my-protfolio/)
+
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>   
+
+<a href="https://github.com/CoderAvi">
+<img height="114em"src="https://github-readme-stats.vercel.app/api?username=CoderAvi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+
+<img height="114em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CoderAvi&layout=compact&langs_count=6&theme=algolia"/>
+<img height="114em" src="https://github-readme-streak-stats.herokuapp.com/?user=CoderAvi&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0"/>
+</a>
 
 
 ![CoderAvi's github activity graph](https://activity-graph.herokuapp.com/graph?username=CoderAvi&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border=true)
