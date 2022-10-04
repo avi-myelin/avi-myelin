@@ -35,7 +35,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 <br/>
 <br/>
 		
-- 🔭 I’m currently working at Myelin Foundry Pvt Ltd as a software Engineer Intern.
+- 🔭 I’m currently working at Myelin Foundry Pvt Ltd as a SDE Intern.
 - 🌱 I’m currently learning more about Artificial Intelligence & Algorithms.
 - 👯 I’m looking to collaborate on [Stackoverflow](https://stackoverflow.com/users/15208961/coderavi?tab=profile).
 - 🤔 I’m looking for help with Shopondoor Deployment work.
